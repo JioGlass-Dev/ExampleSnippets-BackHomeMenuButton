@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width">
     <meta name="title" content="Class ButtonManager
    | JMR Samples ">
-    <meta name="generator" content="docfx 2.58.5.0">
+    <meta name="generator" content="docfx 2.58.9.0">
     
     <link rel="shortcut icon" href="../favicon.ico">
     <link rel="stylesheet" href="../styles/docfx.vendor.css">
@@ -78,12 +78,13 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="Global.ButtonManager">
+            <article class="content wrap" id="_content" data-uid="JMRSDKExampleSnippets.ButtonManager">
   
   
-  <h1 id="Global_ButtonManager" data-uid="Global.ButtonManager" class="text-break">Class ButtonManager
+  <h1 id="JMRSDKExampleSnippets_ButtonManager" data-uid="JMRSDKExampleSnippets.ButtonManager" class="text-break">Class ButtonManager
   </h1>
-  <div class="markdown level0 summary"></div>
+  <div class="markdown level0 summary"><p>Shows example of accessing callbacks called during back, home and menu button press.</p>
+</div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
@@ -96,17 +97,20 @@
     <div><span class="xref">IHomeHandler</span></div>
     <div><span class="xref">IMenuHandler</span></div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="Global.html">Global</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="JMRSDKExampleSnippets.html">JMRSDKExampleSnippets</a></h6>
   <h6><strong>Assembly</strong>: cs.temp.dll.dll</h6>
-  <h5 id="Global_ButtonManager_syntax">Syntax</h5>
+  <h5 id="JMRSDKExampleSnippets_ButtonManager_syntax">Syntax</h5>
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHandler</code></pre>
   </div>
+  <h5 id="JMRSDKExampleSnippets_ButtonManager_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks"><p>Requires global listener as these buttons should be called from anywhere in the scene.</p>
+</div>
   <h3 id="fields">Fields
   </h3>
   
   
-  <h4 id="Global_ButtonManager_HUDText" data-uid="Global.ButtonManager.HUDText">HUDText</h4>
+  <h4 id="JMRSDKExampleSnippets_ButtonManager_HUDText" data-uid="JMRSDKExampleSnippets.ButtonManager.HUDText">HUDText</h4>
   <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="decalaration">Declaration</h5>
@@ -132,8 +136,8 @@
   </h3>
   
   
-  <a id="Global_ButtonManager_OnBackAction_" data-uid="Global.ButtonManager.OnBackAction*"></a>
-  <h4 id="Global_ButtonManager_OnBackAction" data-uid="Global.ButtonManager.OnBackAction">OnBackAction()</h4>
+  <a id="JMRSDKExampleSnippets_ButtonManager_OnBackAction_" data-uid="JMRSDKExampleSnippets.ButtonManager.OnBackAction*"></a>
+  <h4 id="JMRSDKExampleSnippets_ButtonManager_OnBackAction" data-uid="JMRSDKExampleSnippets.ButtonManager.OnBackAction">OnBackAction()</h4>
   <div class="markdown level1 summary"><p>Callback for Back button press</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -143,8 +147,8 @@
   </div>
   
   
-  <a id="Global_ButtonManager_OnHomeAction_" data-uid="Global.ButtonManager.OnHomeAction*"></a>
-  <h4 id="Global_ButtonManager_OnHomeAction" data-uid="Global.ButtonManager.OnHomeAction">OnHomeAction()</h4>
+  <a id="JMRSDKExampleSnippets_ButtonManager_OnHomeAction_" data-uid="JMRSDKExampleSnippets.ButtonManager.OnHomeAction*"></a>
+  <h4 id="JMRSDKExampleSnippets_ButtonManager_OnHomeAction" data-uid="JMRSDKExampleSnippets.ButtonManager.OnHomeAction">OnHomeAction()</h4>
   <div class="markdown level1 summary"><p>Callback for Home button press</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -154,8 +158,8 @@
   </div>
   
   
-  <a id="Global_ButtonManager_OnMenuAction_" data-uid="Global.ButtonManager.OnMenuAction*"></a>
-  <h4 id="Global_ButtonManager_OnMenuAction" data-uid="Global.ButtonManager.OnMenuAction">OnMenuAction()</h4>
+  <a id="JMRSDKExampleSnippets_ButtonManager_OnMenuAction_" data-uid="JMRSDKExampleSnippets.ButtonManager.OnMenuAction*"></a>
+  <h4 id="JMRSDKExampleSnippets_ButtonManager_OnMenuAction" data-uid="JMRSDKExampleSnippets.ButtonManager.OnMenuAction">OnMenuAction()</h4>
   <div class="markdown level1 summary"><p>Callback for Menu button press</p>
 </div>
   <div class="markdown level1 conceptual"></div>
@@ -163,13 +167,13 @@
   <div class="codewrapper">
     <pre><code class="lang-csharp hljs">public void OnMenuAction()</code></pre>
   </div>
-  <h5 id="Global_ButtonManager_OnMenuAction_remarks">Remarks</h5>
+  <h5 id="JMRSDKExampleSnippets_ButtonManager_OnMenuAction_remarks">Remarks</h5>
   <div class="markdown level1 remarks"><p>Double press Home button for menu button</p>
 </div>
   
   
-  <a id="Global_ButtonManager_Start_" data-uid="Global.ButtonManager.Start*"></a>
-  <h4 id="Global_ButtonManager_Start" data-uid="Global.ButtonManager.Start">Start()</h4>
+  <a id="JMRSDKExampleSnippets_ButtonManager_Start_" data-uid="JMRSDKExampleSnippets.ButtonManager.Start*"></a>
+  <h4 id="JMRSDKExampleSnippets_ButtonManager_Start" data-uid="JMRSDKExampleSnippets.ButtonManager.Start">Start()</h4>
   <div class="markdown level1 summary"><p>Added Global Listener in Start method.</p>
 </div>
   <div class="markdown level1 conceptual"></div>

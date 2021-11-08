@@ -1,13 +1,13 @@
 {
-  "api/Global.ButtonManager.html": {
-    "href": "api/Global.ButtonManager.html",
+  "api/JMRSDKExampleSnippets.ButtonManager.html": {
+    "href": "api/JMRSDKExampleSnippets.ButtonManager.html",
     "title": "Class ButtonManager | JMR Samples",
-    "keywords": "Class ButtonManager Inheritance Object ButtonManager Implements IBackHandler IHomeHandler IMenuHandler Namespace : Global Assembly : cs.temp.dll.dll Syntax public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHandler Fields HUDText Declaration public TextMeshProUGUI HUDText Field Value Type Description TextMeshProUGUI Methods OnBackAction() Callback for Back button press Declaration public void OnBackAction() OnHomeAction() Callback for Home button press Declaration public void OnHomeAction() OnMenuAction() Callback for Menu button press Declaration public void OnMenuAction() Remarks Double press Home button for menu button Start() Added Global Listener in Start method. Declaration public void Start() Implements IBackHandler IHomeHandler IMenuHandler"
+    "keywords": "Class ButtonManager Shows example of accessing callbacks called during back, home and menu button press. Inheritance Object ButtonManager Implements IBackHandler IHomeHandler IMenuHandler Namespace : JMRSDKExampleSnippets Assembly : cs.temp.dll.dll Syntax public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHandler Remarks Requires global listener as these buttons should be called from anywhere in the scene. Fields HUDText Declaration public TextMeshProUGUI HUDText Field Value Type Description TextMeshProUGUI Methods OnBackAction() Callback for Back button press Declaration public void OnBackAction() OnHomeAction() Callback for Home button press Declaration public void OnHomeAction() OnMenuAction() Callback for Menu button press Declaration public void OnMenuAction() Remarks Double press Home button for menu button Start() Added Global Listener in Start method. Declaration public void Start() Implements IBackHandler IHomeHandler IMenuHandler"
   },
-  "api/Global.html": {
-    "href": "api/Global.html",
-    "title": "Namespace Global | JMR Samples",
-    "keywords": "Namespace Global Classes ButtonManager"
+  "api/JMRSDKExampleSnippets.html": {
+    "href": "api/JMRSDKExampleSnippets.html",
+    "title": "Namespace JMRSDKExampleSnippets | JMR Samples",
+    "keywords": "Namespace JMRSDKExampleSnippets Classes ButtonManager Shows example of accessing callbacks called during back, home and menu button press."
   },
   "index.html": {
     "href": "index.html",

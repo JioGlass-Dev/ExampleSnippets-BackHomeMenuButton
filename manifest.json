@@ -24,11 +24,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Global.ButtonManager.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.ButtonManager.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Global.ButtonManager.html",
-          "hash": "floVIOegt+lqpAKJnTPTnpBqwMka4t5tdRgyFRstZ/c="
+          "relative_path": "api/JMRSDKExampleSnippets.ButtonManager.html",
+          "hash": "iHhSvyLg0MtrF499uhMnp9Outuf+hBkik6+FGPbswmc="
         }
       },
       "is_incremental": false,
@@ -36,11 +36,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Global.yml",
+      "source_relative_path": "api/JMRSDKExampleSnippets.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Global.html",
-          "hash": "4uB6nuteBV33jXunzeLMrRnudCFGQizvr5h4vjNbu2A="
+          "relative_path": "api/JMRSDKExampleSnippets.html",
+          "hash": "JTqH9fXxfIj8qEmmPXhKXwKKcO0YHh/9h5AuYpdj+V8="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "1j14IZ2tMWK7I2ZLUQFf/jrY+ur9bjZSHmzoDqhgq3c="
+          "hash": "XvXi0f26rJdClSgl9MD+6PfgPQdunfZjkh9Lp8nl9dc="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "ZiHr+BwA5X6cIap4L4dbN1w4AZcWSfRDKzpE+dd7QBE="
+          "hash": "Kev2fA12gTagv9y6BkfeMVJibo0ku6KyTq+exEo/ij8="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/JMRSamples.html",
-          "hash": "B1iPFqr+VQqxlFbhSghpWwRiHStbtZUnrmYR7T5wyxY="
+          "hash": "S0dshwxKN6QtwmFq3Ksrj/IPNd/DWfeS41D63psCFlY="
         }
       },
       "is_incremental": false,
@@ -122,7 +122,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "rrR0eC1eu3goU4dd7WAIKO6q6rkPOhow6WVtYX2krXI="
+          "hash": "NYNnOJZ88KMB8rBXpBhhfXgGpwLXtPTqZ0vJglRZl+8="
         }
       },
       "is_incremental": false,

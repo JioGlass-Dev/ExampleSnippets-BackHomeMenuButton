@@ -1,75 +1,73 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: Global
-  name: Global
-  href: api/Global.html
-  name.vb: ''
-  fullName: Global
-  fullName.vb: ''
-  nameWithType: Global
-  nameWithType.vb: ''
-- uid: Global.ButtonManager
+- uid: JMRSDKExampleSnippets
+  name: JMRSDKExampleSnippets
+  href: api/JMRSDKExampleSnippets.html
+  commentId: N:JMRSDKExampleSnippets
+  fullName: JMRSDKExampleSnippets
+  nameWithType: JMRSDKExampleSnippets
+- uid: JMRSDKExampleSnippets.ButtonManager
   name: ButtonManager
-  href: api/Global.ButtonManager.html
-  commentId: T:Global.ButtonManager
-  fullName: ButtonManager
+  href: api/JMRSDKExampleSnippets.ButtonManager.html
+  commentId: T:JMRSDKExampleSnippets.ButtonManager
+  fullName: JMRSDKExampleSnippets.ButtonManager
   nameWithType: ButtonManager
-- uid: Global.ButtonManager.HUDText
+- uid: JMRSDKExampleSnippets.ButtonManager.HUDText
   name: HUDText
-  href: api/Global.ButtonManager.html#Global_ButtonManager_HUDText
-  commentId: F:Global.ButtonManager.HUDText
-  fullName: ButtonManager.HUDText
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_HUDText
+  commentId: F:JMRSDKExampleSnippets.ButtonManager.HUDText
+  fullName: JMRSDKExampleSnippets.ButtonManager.HUDText
   nameWithType: ButtonManager.HUDText
-- uid: Global.ButtonManager.OnBackAction
+- uid: JMRSDKExampleSnippets.ButtonManager.OnBackAction
   name: OnBackAction()
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnBackAction
-  commentId: M:Global.ButtonManager.OnBackAction
-  fullName: ButtonManager.OnBackAction()
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnBackAction
+  commentId: M:JMRSDKExampleSnippets.ButtonManager.OnBackAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnBackAction()
   nameWithType: ButtonManager.OnBackAction()
-- uid: Global.ButtonManager.OnBackAction*
+- uid: JMRSDKExampleSnippets.ButtonManager.OnBackAction*
   name: OnBackAction
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnBackAction_
-  commentId: Overload:Global.ButtonManager.OnBackAction
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnBackAction_
+  commentId: Overload:JMRSDKExampleSnippets.ButtonManager.OnBackAction
   isSpec: "True"
-  fullName: ButtonManager.OnBackAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnBackAction
   nameWithType: ButtonManager.OnBackAction
-- uid: Global.ButtonManager.OnHomeAction
+- uid: JMRSDKExampleSnippets.ButtonManager.OnHomeAction
   name: OnHomeAction()
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnHomeAction
-  commentId: M:Global.ButtonManager.OnHomeAction
-  fullName: ButtonManager.OnHomeAction()
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnHomeAction
+  commentId: M:JMRSDKExampleSnippets.ButtonManager.OnHomeAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnHomeAction()
   nameWithType: ButtonManager.OnHomeAction()
-- uid: Global.ButtonManager.OnHomeAction*
+- uid: JMRSDKExampleSnippets.ButtonManager.OnHomeAction*
   name: OnHomeAction
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnHomeAction_
-  commentId: Overload:Global.ButtonManager.OnHomeAction
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnHomeAction_
+  commentId: Overload:JMRSDKExampleSnippets.ButtonManager.OnHomeAction
   isSpec: "True"
-  fullName: ButtonManager.OnHomeAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnHomeAction
   nameWithType: ButtonManager.OnHomeAction
-- uid: Global.ButtonManager.OnMenuAction
+- uid: JMRSDKExampleSnippets.ButtonManager.OnMenuAction
   name: OnMenuAction()
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnMenuAction
-  commentId: M:Global.ButtonManager.OnMenuAction
-  fullName: ButtonManager.OnMenuAction()
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnMenuAction
+  commentId: M:JMRSDKExampleSnippets.ButtonManager.OnMenuAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnMenuAction()
   nameWithType: ButtonManager.OnMenuAction()
-- uid: Global.ButtonManager.OnMenuAction*
+- uid: JMRSDKExampleSnippets.ButtonManager.OnMenuAction*
   name: OnMenuAction
-  href: api/Global.ButtonManager.html#Global_ButtonManager_OnMenuAction_
-  commentId: Overload:Global.ButtonManager.OnMenuAction
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_OnMenuAction_
+  commentId: Overload:JMRSDKExampleSnippets.ButtonManager.OnMenuAction
   isSpec: "True"
-  fullName: ButtonManager.OnMenuAction
+  fullName: JMRSDKExampleSnippets.ButtonManager.OnMenuAction
   nameWithType: ButtonManager.OnMenuAction
-- uid: Global.ButtonManager.Start
+- uid: JMRSDKExampleSnippets.ButtonManager.Start
   name: Start()
-  href: api/Global.ButtonManager.html#Global_ButtonManager_Start
-  commentId: M:Global.ButtonManager.Start
-  fullName: ButtonManager.Start()
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_Start
+  commentId: M:JMRSDKExampleSnippets.ButtonManager.Start
+  fullName: JMRSDKExampleSnippets.ButtonManager.Start()
   nameWithType: ButtonManager.Start()
-- uid: Global.ButtonManager.Start*
+- uid: JMRSDKExampleSnippets.ButtonManager.Start*
   name: Start
-  href: api/Global.ButtonManager.html#Global_ButtonManager_Start_
-  commentId: Overload:Global.ButtonManager.Start
+  href: api/JMRSDKExampleSnippets.ButtonManager.html#JMRSDKExampleSnippets_ButtonManager_Start_
+  commentId: Overload:JMRSDKExampleSnippets.ButtonManager.Start
   isSpec: "True"
-  fullName: ButtonManager.Start
+  fullName: JMRSDKExampleSnippets.ButtonManager.Start
   nameWithType: ButtonManager.Start
