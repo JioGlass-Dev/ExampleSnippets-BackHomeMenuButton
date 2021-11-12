@@ -11,8 +11,8 @@
   },
   "index.html": {
     "href": "index.html",
-    "title": "ExampleSnippets-BackHomeMenuButton | JMR Samples",
-    "keywords": "ExampleSnippets-BackHomeMenuButton Back, Home and Menu button implementation of JMRSDK"
+    "title": "Back, Home and Menu Button | JMR Samples",
+    "keywords": "Back, Home and Menu Button Back, Home and Menu button implementation of JMRSDK Scripts ButtonManager.cs Shows example of accessing callbacks called during back, home and menu button press. Interfaces to implement button funtionalities cs public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHandler How to use? Download and unzip this project. Open the project using Unity Hub. Download and import the latest version of JMRSDK package. Open and play the ControllerOrientation scene from Assets/Scenes folder."
   },
   "manual/JMRSamples.html": {
     "href": "manual/JMRSamples.html",

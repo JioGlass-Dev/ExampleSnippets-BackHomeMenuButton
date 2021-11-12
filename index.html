@@ -5,9 +5,9 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>ExampleSnippets-BackHomeMenuButton | JMR Samples </title>
+    <title>Back, Home and Menu Button | JMR Samples </title>
     <meta name="viewport" content="width=device-width">
-    <meta name="title" content="ExampleSnippets-BackHomeMenuButton | JMR Samples ">
+    <meta name="title" content="Back, Home and Menu Button | JMR Samples ">
     <meta name="generator" content="docfx 2.58.9.0">
     
     <link rel="shortcut icon" href="favicon.ico">
@@ -70,9 +70,24 @@
         <div class="article row grid">
           <div class="col-md-10">
             <article class="content wrap" id="_content" data-uid="">
-<h1 id="examplesnippets-backhomemenubutton">ExampleSnippets-BackHomeMenuButton</h1>
+<h1 id="back-home-and-menu-button">Back, Home and Menu Button</h1>
 
 <p>Back, Home and Menu button implementation of JMRSDK</p>
+<h2 id="scripts">Scripts</h2>
+<h3 id="buttonmanagercs"><code>ButtonManager.cs</code></h3>
+<p>Shows example of accessing callbacks called during back, home and menu button press.<br></p>
+<ul>
+<li>Interfaces to implement button funtionalities
+<code>cs
+public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHandler</code></li>
+</ul>
+<h2 id="how-to-use">How to use?</h2>
+<ol>
+<li>Download and unzip this project.</li>
+<li>Open the project using Unity Hub.</li>
+<li>Download and import the latest version of JMRSDK package.</li>
+<li>Open and play the ControllerOrientation scene from Assets/Scenes folder.</li>
+</ol>
 </article>
           </div>
           
