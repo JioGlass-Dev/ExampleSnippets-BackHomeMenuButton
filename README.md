@@ -14,4 +14,4 @@ public class ButtonManager : MonoBehaviour, IBackHandler, IHomeHandler, IMenuHan
 1. Download and unzip this project.
 2. Open the project using Unity Hub.
 3. Download and import the latest version of JMRSDK package.
-4. Open and play the ControllerOrientation scene from Assets/Scenes folder.
+4. Open and play the BackHomeMenuButton scene from Assets/Scenes folder.
